@@ -3,7 +3,7 @@
   "publisher": "tyanderson91",
   "displayName": "Rusty Venture",
   "description": "A color theme inspired by rusty, desolate colors of Mars and the Rust language",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "rusty_icon.png",
   "repository": "https://github.com/tyanderson91/rusty-venture",
   "engines": {
