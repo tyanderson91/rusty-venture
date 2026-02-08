@@ -285,10 +285,6 @@
 		"typeParameter": "#e88936",
 		"builtinType": "#e88936",
 		"lifetime": "#e88936",
-		"formatSpecifier": {
-			"foreground": "#35d5d5",
-			"fontStyle": "bold"
-		},
 		"escapeSequence": "#506fb8",
 		"selfKeyword": "#35d5d5",
 		"boolean": "#ff5f5f",
@@ -2123,6 +2119,14 @@
 			"scope": "markup.italic.markdown",
 			"settings": {
 				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Rust format string braces",
+			"scope": "punctuation.section.embedded.rust,meta.interpolation.rust punctuation,constant.character.format.placeholder.other.python punctuation",
+			"settings": {
+				"foreground": "#506fb8",
+				"fontStyle": ""
 			}
 		}
 	]
